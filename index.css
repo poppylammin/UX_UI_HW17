@@ -12,10 +12,11 @@
 
 }
 ul {
-    p
+    
 }
 
-section .heroImg {
+section {
+    background-image: url("../UX_UI_HW17/images/IMG_1630.jpg");
     height: 600px;
     padding: 25px;
     display: inline;
