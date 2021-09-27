@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.inline-block ul {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    list-style-type: none;
+    padding: 10%;
+
+}
+ul {
+    p
+}
+
+section .heroImg {
+    height: 600px;
+    padding: 25px;
+    display: inline;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 23%;
+    padding: 1%;
+}
+
+footer {
+    background-color: #cfcfcf;
+    display: flex;
+    height: 4rem;
+}
+
+footer  .footer-text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer .footer-img-links {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 auto;
+    height: 100px;
+
+}
